@@ -12,8 +12,7 @@ print("Digite o segundo numero:")
 
 segundo_numero = float(input())
 
-print("Soma = ", soma(primeiro_numero, segundo_numero))
-print("Subtracao = ", subtracao(primeiro_numero, segundo_numero))
+print("Soma = ", soma(primeiro_numero, segundo_numero), "Subtracao = ", subtracao(primeiro_numero, segundo_numero))
 print("Multiplicacao = ", multiplicacao(primeiro_numero, segundo_numero))
 print("Divisao = ", divisao(primeiro_numero, segundo_numero))
 print("Potenciação = ", potenciacao(primeiro_numero, segundo_numero))
