@@ -3,6 +3,7 @@ from multiplicacao import *
 from soma import *
 from subtracao import *
 from potenciacao import *
+from quadrado import *
 
 print("Bem-vindo a minha calculadora!!!")
 print("Digite o primeiro numero:")
@@ -16,3 +17,5 @@ print("Subtracao = ", subtracao(primeiro_numero, segundo_numero))
 print("Multiplicacao = ", multiplicacao(primeiro_numero, segundo_numero))
 print("Divisao = ", divisao(primeiro_numero, segundo_numero))
 print("Potenciação = ", potenciacao(primeiro_numero, segundo_numero))
+print("Quadrado do primeiro numero = ", quadrado(primeiro_numero))
+print("Quadrado do segundo numero = ", quadrado(segundo_numero))
