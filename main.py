@@ -3,10 +3,10 @@ from multiplicacao import *
 from soma import *
 from subtracao import *
 
-print("Bem-vindo a minha calculadora")
-print("Digite o primeiro numero")
+print("Bem-vindo a minha calculadora!!!")
+print("Digite o primeiro numero:")
 primeiro_numero = float(input())
-print("Digite o segundo numero")
+print("Digite o segundo numero:")
 
 segundo_numero = float(input())
 
